@@ -5,6 +5,7 @@ Date: 2019/01/14
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Khuong Tra\n");
+	printf("Computer Science\n");
 	return 0;
 }
