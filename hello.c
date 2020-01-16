@@ -7,5 +7,7 @@ Date: 2019/01/14
 int main(void) {
 	printf("Khuong Tra\n");
 	printf("Computer Science\n");
+	printf("Danny Schroeder\n");
+	printf("Electrical Engineering\n");
 	return 0;
 }
